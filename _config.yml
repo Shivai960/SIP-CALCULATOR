@@ -1,0 +1,10 @@
+# Site settings
+title: SIP Calculator
+description: A simple SIP calculator website.
+baseurl: "" # Leave empty if your site is at the root of the domain
+url: "https://shivai960.github.io/SIP-CALCULATOR/" # Replace with your GitHub Pages URL
+
+# Build settings
+theme: minima # Default Jekyll theme
+plugins:
+  - jekyll-feed
